@@ -9,10 +9,15 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Tesla Project.</h1>
-<h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
-	           We are raising over millionaires in IT.
-	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+<h1 align="center">Avatar Way of Water is now showing at the Cinemas.</h1>
+<h1 align="center">Release date: December 16, 2022 (USA)
+	           Content rating: PG-13
+		   Genre: Action · Adventure · Fantasy · Sci-Fi
+		   Directed by: James Cameron
+		   Written by: Rick Jaffa · Amanda Silver · Josh Friedman · Shane Salerno
+		   Music by: Simon Franglen
+		   Produced by: Jon Landau · James Cameron  .
+	Sit back, Relax and Enjoy.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
