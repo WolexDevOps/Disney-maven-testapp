@@ -10,14 +10,14 @@
 </head>
 <body>
 <h1 align="center">Avatar Way of Water is now showing at the Cinemas.</h1>
-<h1 align="center">Release date: December 16, 2022 (USA)
-	           Content rating: PG-13
-		   Genre: Action · Adventure · Fantasy · Sci-Fi
-		   Directed by: James Cameron
-		   Written by: Rick Jaffa · Amanda Silver · Josh Friedman · Shane Salerno
-		   Music by: Simon Franglen
-		   Produced by: Jon Landau · James Cameron  .
-	Sit back, Relax and Enjoy.</h1>
+<h1 align="left">Release date: December 16, 2022 (USA).</h1>
+<h1 align="left">Content rating: PG-13.</h1>
+<h1 align="left">Genre: Action · Adventure · Fantasy · Sci-Fi.</h1>
+<h1 align="left">Directed by: James Cameron.</h1>
+<h1 align="left">Written by: Rick Jaffa · Amanda Silver · Josh Friedman · Shane Salerno.</h1>
+<h1 align="left">Music by: Simon Franglen.</h1>
+<h1 align="left">Produced by: Jon Landau · James Cameron.</h1>
+<h1 align="center">Sit back, Relax and Enjoy.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
