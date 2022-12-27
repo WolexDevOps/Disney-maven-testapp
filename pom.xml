@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.28.194:8081/repository/Appleboxingholiday-releases/</url>
+	      <url>http://3.96.136.185:8081/repository/Disney-testapp-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.28.194:8081/repository/Appleboxingholiday-snapshot/</url>
+	      <url>http://3.96.136.185:8081/repository/Disney-testapp-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
