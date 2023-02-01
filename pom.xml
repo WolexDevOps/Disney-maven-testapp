@@ -8,9 +8,9 @@
 	
 	<version>0.0.2-SNAPSHOT</version> 
 	
-	<name>Disney-pipelinetest-application</name>
+	<name>TestG32-application</name>
 
-	<description>Disney Test Project for Java Project</description>
+	<description>TestG32 Java Project</description>
 
 	<organization>
 		<name>Landmark Technologies</name>
@@ -96,19 +96,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.28.194:8081/repository/Disney-testapp-releases/</url>
+	      <url>http://15.222.234.170:8081/repository/TestG32-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.28.194:8081/repository/Disney-testapp-snapshots/</url>
+	      <url>http:http://15.222.234.170:8081/repository/TestG32-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>Disney-pipelinetest-app</finalName>
+		<finalName>TestG32-app</finalName>
 		
 		<plugins>
 			<plugin>
